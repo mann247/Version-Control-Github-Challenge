@@ -4,7 +4,9 @@
 
 1.  Explain what the terminal is in your own words.
 
-A terminal is a text-based user interface for interacting with computers. It allows the user to execute commands and view the results, as well as control applications running on the computer. This can be accessed through the Command Line Interface, remote servers, and virtual machines.
+A terminal is a text-based user interface for interacting with computers. 
+It allows the user to execute commands and view the results, as well as control applications running on the computer. 
+This can be accessed through the Command Line Interface, remote servers, and virtual machines.
 
 2. What is the major difference between Git and GitHub?
 

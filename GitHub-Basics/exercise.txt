@@ -19,4 +19,4 @@ The steps to fork a GitHub Repository are:
     2. Click “Create Fork” Button to fork the repository
     3. Choose Destination
     4. Forking is Complete
-    5. Clone The Fork (If needed)
+    5. Clone The Fork (If needed) 

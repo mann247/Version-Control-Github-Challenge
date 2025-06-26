@@ -1,5 +1,5 @@
 # Nia Manning
-# 6-26-2025
+# 6-29-2025
 # General Inquiry 3
 
 1.  Explain what the terminal is in your own words.
@@ -14,9 +14,9 @@ Git is a free and open source version control system that tracks and manages you
 
 3.  What are the steps to fork a GitHub repository? 
 
-The steps to fork a Git Repository are:
+The steps to fork a GitHub Repository are:
     1. Navigate to the Repository
-    2. Click “Create Fork” Button
+    2. Click “Create Fork” Button to fork the repository
     3. Choose Destination
     4. Forking is Complete
     5. Clone The Fork (If needed)
